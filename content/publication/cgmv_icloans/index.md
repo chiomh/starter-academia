@@ -28,7 +28,7 @@ abstract: In Europe, the need for additional funding coming from either budget c
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
