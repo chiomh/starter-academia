@@ -5,8 +5,8 @@ authors:
 - Maia Guell
 - admin
 - Analia Viola
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2019-07-01T00:00:00Z"
+doi: "https://doi.org/10.1093/epolic/eiz010"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-07-01T00:00:00Z"
@@ -18,7 +18,7 @@ publishDate: "2019-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Economic Policy, 1*(1)"
+publication: "*Economic Policy, 34 (99), 479–521*"
 publication_short: ""
 
 abstract: In Europe, the need for additional funding coming from either budget cuts and/or increased costs due to increased competition has reopened the debate on the financing of university systems. An attractive alternative to the current general-tax-financed subsidies are Income Contingent Loans (ICL), a flexible scheme that puts more weight on private resources while enhancing progressivity. One challenge of the viability of ICL systems is the functioning of the labor market for university graduates. This paper offers a general analysis of the economics of ICL, followed by an application to Spain. We set up a loan laboratory in which we can explore the distributional effects of different loan systems to finance tertiary education at current costs as well as to increase university funding to improve in its quality. We use simulated lifetime earnings of graduates matching the dynamics of employment and earnings in the Spanish administrative social security data to calculate the burden of introducing ICL for individuals at different points of the earnings distribution and for the government. We find that (1) our proposed structure is highly progressive under all specifications, with the top quarter of the distribution paying close to the full amount of the tuition and the bottom 10\% paying almost no tuition; and (2) the share of total university education subsidized by the government is between 16 and 56 percentage points less than under the current system.
@@ -27,14 +27,15 @@ abstract: In Europe, the need for additional funding coming from either budget c
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- College Loans
+- Spain
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
 url_pdf: https://academic.oup.com/economicpolicy/article-abstract/34/99/479/5538980?redirectedFrom=fulltext
-url_code: ''
+url_code: https://github.com/chiomh/CGMV_prestamos
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -63,13 +64,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
