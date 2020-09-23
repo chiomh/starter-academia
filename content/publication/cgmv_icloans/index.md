@@ -32,9 +32,9 @@ tags:
 featured: true
 
 # links:
-# - name: ""
-#   url: ""
-url_pdf: https://academic.oup.com/economicpolicy/article-abstract/34/99/479/5538980?redirectedFrom=fulltext
+- name: "Economic Policy"
+url: https://academic.oup.com/economicpolicy/article-abstract/34/99/479/5538980?redirectedFrom=fulltext
+url_pdf: https://www.dropbox.com/s/d5r27oc8rw2378a/Prestamos_Sep18.pdf
 url_code: https://github.com/chiomh/CGMV_prestamos
 url_dataset: ''
 url_poster: ''
